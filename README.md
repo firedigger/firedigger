@@ -1,4 +1,4 @@
-Hi, I’m Alex 👋 — based in Finland 🇫🇮 🇪🇺
+Hi, I’m Alex 👋 — based in Finland :flag_finland: :flag_european_union:
 
 I like simple, practical solutions — less is more.
 My thinking is grounded in a strong foundation in computer science and mathematics.
