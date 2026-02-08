@@ -1,4 +1,5 @@
-Hi, I’m Alex 👋 — based in Finland :flag_finland: :flag_european_union:
+Hi, I’m Alex 👋 — based in Finland <img src="https://flagcdn.com/w20/fi.png" width="20" /><img src="https://flagcdn.com/w20/eu.png" width="20" />
+
 
 I like simple, practical solutions — less is more.
 My thinking is grounded in a strong foundation in computer science and mathematics.
